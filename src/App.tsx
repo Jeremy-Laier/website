@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './nyan.jpg';
 import './App.css';
 
 const App: React.FC = () => {
