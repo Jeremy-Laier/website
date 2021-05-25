@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './IMG950065.jpg';
+import logo from './nyan.jpg';
 import './App.css';
 
 const App: React.FC = () => {
