@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import nyan from '../nyan.jpg';
+import nyan from './nyan.jpg';
 
 
 const App: React.FC = () => {
