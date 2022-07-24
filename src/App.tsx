@@ -1,7 +1,6 @@
 import React from 'react';
 import './App.css';
-import nyan from './nyan.gif';
-
+import nyan from './200.gif';
 
 const App: React.FC = () => {
   return (
