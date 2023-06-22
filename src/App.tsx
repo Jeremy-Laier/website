@@ -7,9 +7,7 @@ const App: React.FC = () => {
     <div className="App">
       <header className="App-header">
       <img src={nyan} alt="BigCo Inc. logo"/>
-madison congratulations 
-        
-        do you want sangria 
+who was right
       </header>
     </div>
   );
