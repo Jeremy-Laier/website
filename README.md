@@ -1,5 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/03eb38c3-6c83-4a4a-80ed-f85c824d724a/deploy-status)](https://app.netlify.com/sites/silly-torvalds-346d18/deploys)
-
 ## Available Scripts
 
 In the project directory, you can run:
